@@ -1,6 +1,8 @@
 # Tic-Tac-Toe
 Tic-Tac-Toe Project
 
+// onoma : Nikos farmakis
+// AM : 2012042
 
 import java.util.Arrays;
 import java.util.InputMismatchException;
